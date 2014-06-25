@@ -38,7 +38,7 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-
+gem 'tzinfo-data'
 gem 'simple_form'
 gem 'country_select'
 gem 'ckeditor'
